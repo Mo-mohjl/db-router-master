@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44e236e0-e377-4612-94d0-4f3fe3db08db" name="Changes" comment="数据库路由组件分库分表" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="68c6ce2f-51ff-4704-816d-695b747286cb" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../software/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2hK0TpebpASHUUCWONowlvgaTkY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.ApiTest.test_queryUserInfoByUserId">
+    <configuration name="ApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="db-router" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bugstack.middleware.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.bugstack.middleware.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.bugstack.middleware.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_insertUser" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_insertUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="db-router" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bugstack.middleware.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.bugstack.middleware.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.bugstack.middleware.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_insertUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_queryUserInfoByUserId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="db-router" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bugstack.middleware.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.bugstack.middleware.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.bugstack.middleware.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_queryUserInfoByUserId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApiTest.test_queryUserInfoByUserId" />
+        <item itemvalue="JUnit.ApiTest" />
+        <item itemvalue="JUnit.ApiTest.test_insertUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44e236e0-e377-4612-94d0-4f3fe3db08db" name="Changes" comment="" />
+      <created>1717327473570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717327473570</updated>
+      <workItem from="1717327474729" duration="10754000" />
+      <workItem from="1717381334963" duration="8718000" />
+      <workItem from="1717483032460" duration="7683000" />
+      <workItem from="1717590418050" duration="2304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="数据库路由组件分库分表" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据库路由组件分库分表" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/config/DataSourceAutoConfig.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/config/DataSourceAutoConfig.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/bugstack/middleware/test/ApiTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/bugstack/middleware/test/ApiTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/DBRouterJoinPoint.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/config/DataSourceAutoConfig.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/config/DataSourceAutoConfig.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/bugstack/middleware/test/ApiTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/config/DataSourceAutoConfig.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/dynamic/DynamicMybatisPlugin.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/dynamic/DynamicMybatisPlugin.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/strategy/impl/DBRouterStrategyHashCode.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/DBRouterJoinPoint.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/bugstack/middleware/db/router/DBRouterJoinPoint.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
